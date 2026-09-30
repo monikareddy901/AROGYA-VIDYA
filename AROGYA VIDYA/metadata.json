@@ -1,0 +1,7 @@
+{
+  "name": "Arogyavidya",
+  "description": "Arogyavidya — Learn. Understand. Care. Live Better. Inclusive health awareness, daily profession-tailored health routines, Bengaluru hospitals locator, and emergency medical companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
